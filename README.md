@@ -1,0 +1,2 @@
+# sunshineForecast
+Weather macOS application
